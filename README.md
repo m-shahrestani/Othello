@@ -1,5 +1,5 @@
 # Othello
-Nowruz Project | CE @ AUT - Othello using Java
+AP Nowruz Project - Othello using Java
 ## How to run the code
 Because this project contains ANSI colors which windows terminal does not support them, *please run this project on IntelliJ terminal*.<hr>
 ## Setting up the game
